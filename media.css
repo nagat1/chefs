@@ -1,0 +1,453 @@
+/* as8ar mn 640 */
+@media (max-width: 500px) { 
+  /* navvv    */
+   
+   .nav{
+        width: 100%;
+        position: sticky;
+        padding: 20px  0px 0px;
+        background-color: white;
+      
+      }
+   .center{
+       position:absolute;
+    top:100%;
+       width: fit-content;
+       left:20%;
+      
+     }
+   .header{
+    margin-top: 35%;
+   }
+   .w{
+    display: flex;
+    flex-direction: column;
+   }
+   
+   
+   /* header.................. */
+   .btn{
+      display: flex;
+  
+   }
+   .header{
+height: 92vh;
+   }
+   
+   
+      .right{
+      padding-top: 50%;
+      }
+      .left{
+       transform: translate(-10%,-230%);
+     width: 90%;
+      }
+
+.right h1{
+  
+    font-size: 40px;
+}
+.btn1 button,.btn2 button{
+  padding: 0px 10px;
+  
+}
+/* chefs */
+.photos {
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.photos .onee,.twoo,.threee{ 
+    width: 100%;
+  
+}.words h2{
+font-size: 40px;
+}.words h3{
+font-size: 40px;
+}
+/* galllllary */
+.photos-two{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    padding:20px 60px 60px;
+    
+    }
+    .pizza,.centercolumn,.thirdcolumn{
+         width: 100%;
+    column-gap: 20px;
+    
+         /* position:relative; */
+       
+    }.pizza{
+        transform: translatex(-15%);
+    }.centercolumn{
+        transform: translatex(-9%);
+    }
+/* maaap */
+.name input,.mail input{
+    width: 90%;
+    padding: 15px  2px ;
+    overflow: hidden;
+
+}.f{
+   
+    width: 100%;
+   
+   
+}.word{
+    display: flex;
+    padding-left: 20px;
+    flex-direction:column ;
+
+}
+.words{
+    transform: translateX(-50px);
+}.but button{
+    padding: 0px 60px;
+    
+ 
+}
+.mapp{transform: translateX(-100px);
+    width: 90%;
+
+  
+  
+}.cont{
+    display: flex;
+       width: 100%;
+       flex-direction: column;
+   
+  }
+/* lasssssst */
+.last .one,.two,.three{
+    width: 100%;
+    padding: 60px;
+    overflow: hidden;
+}.last{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+}.enter{
+    width: 110%;
+}.sub{
+    width: 110%;
+   
+  
+}.ff{width: 100%;
+  
+}
+    .lin{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        column-gap: 100px;
+   }.linkk{
+        display: flex;
+        flex-direction: column;
+     
+   }
+
+}
+@media (min-width: 500px) and (max-width: 640px){ 
+    .nav{
+        width: 100%;
+        position: sticky;
+        padding: 20px  0px 0px;
+        background-color: white;
+      
+      }
+   .center{
+       position:absolute;
+    top:100%;
+       width: fit-content;
+       left:20%;
+      
+     }
+   .header{
+    margin-top: 35%;
+   }
+   .w{
+    display: flex;
+    flex-direction: column;
+   }
+   
+   
+   /* header.................. */
+   .btn{
+      display: flex;
+  
+   }
+   .header{
+height: 92vh;
+   }
+   
+   
+      .right{
+      padding-top: 50%;
+      }
+      .left{
+       transform: translate(-10%,-220%);
+     width: 80%;
+      }
+
+.right h1{
+  
+    font-size: 40px;
+}
+.btn1 button,.btn2 button{
+  padding: 0px 10px;
+  
+}
+/* chefs */
+.photos {
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.photos .onee,.twoo,.threee{ 
+    width: 100%;
+  
+}.words h2{
+font-size: 30px;
+}.words h3{
+font-size: 20px;
+}.words{
+    transform: translate(180px,180px);
+}
+/* galllllary */
+.photos-two{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    padding:20px 60px 60px;
+    
+    }
+    .pizza,.centercolumn,.thirdcolumn{
+         width: 100%;
+    column-gap: 20px;}
+    
+       
+    .pizza{
+        transform: translatex(-15%);
+    }.centercolumn{
+        transform: translatex(-9%);
+    }
+/* maaap */
+.name input,.mail input{
+    width: 90%;
+    padding: 15px  2px ;
+    overflow: hidden;
+
+}.f{
+   
+    width: 100%;
+   
+   
+}.word{
+    display: flex;
+    padding-left: 20px;
+    flex-direction:column ;
+
+}
+.but button{
+    padding: 0px 60px;
+    
+ 
+}
+.mapp{transform: translateX(-110px);
+    width: 90%;
+overflow: hidden;
+  
+  
+}
+.map .words{
+    transform: translate(-50px,10px);
+}.cont{
+    display: flex;
+       width: 100%;
+       flex-direction: column;
+   
+  }
+/* lasssssst */
+.last .one,.two,.three{
+    width: 100%;
+    padding: 60px;
+    overflow: hidden;
+}.last{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+}.enter{
+    width: 110%;
+}.sub{
+    width: 110%;
+   
+  
+}.ff{width: 100%;
+  
+}
+    .lin{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        column-gap: 100px;
+   }.linkk{
+        display: flex;
+        flex-direction: column;
+     
+   }
+}
+
+/* sm */
+@media (min-width: 640px) and (max-width: 768px){ 
+
+.nav{
+    width: 100%;
+    position: sticky;
+    padding: 20px  0px 0px;
+    background-color: white;
+  
+  }
+.center{
+   position:absolute;
+top:100%;
+   width: fit-content;
+   left:20%;
+  
+ }
+.header{
+margin-top: 35%;
+}
+.w{
+display: flex;
+flex-direction: column;
+}
+
+
+/* header.................. */
+.btn{
+  display: flex;
+
+}
+.header{
+height: 95vh;
+}
+
+
+  .right{
+  padding-top: 50%;
+  }
+  .left{
+   transform: translate(-10%,-170%);
+ width: 80%;
+  }
+
+.right h1{
+
+font-size: 40px;
+}
+.btn1 button,.btn2 button{
+padding: 0px 10px;
+
+}
+/* chefs */
+.photos {
+display: flex;
+flex-direction: column;
+
+}
+
+.photos .onee,.twoo,.threee{ 
+width: 90%;
+
+}.words{
+    width: 100%;
+  transform: translate();
+  overflow: hidden;
+}/* maaap */
+.name input,.mail input{
+    width: 100%;
+    padding: 15px  10px;
+
+}.f{
+   
+    width: 100%;
+   
+   
+}.word{
+    display: flex;
+    padding-left: 20px;
+    flex-direction:column ;
+
+}
+.mapp{
+    width: 70%;
+ 
+  
+  
+}.cont{
+    display: flex;
+       width: 100%;
+       flex-direction: column;
+   
+  }
+/* lasssssst */
+.last .one,.two,.three{
+    width: 100%;
+    padding: 60px;
+}.last{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+}
+}
+
+
+/* md */
+@media  (min-width: 768px) and (max-width: 1024px) 
+{
+.left{
+    transform: translate(40%,-100%);
+}
+/* maaap */
+.name input,.mail input{
+    width: 100%;
+    padding: 15px  10px;
+
+}.f{
+   
+    width: 100%;
+   
+   
+}
+/* lasssssst */
+.last .one,.two,.three{
+    width: 100%;
+    padding: 60px;
+}.last{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10%;
+}}
+
+/* lg */
+
+/* xl */
+@media  (min-width: 1024px) and (max-width: 1180px) 
+{
+ 
+/* maaap */
+.name input,.mail input{
+    width: 100%;
+    padding: 15px  180px 10px 5px ;
+
+}
+}
+/* lg */
+@media  (min-width: 1536px) 
+{
+
+}
